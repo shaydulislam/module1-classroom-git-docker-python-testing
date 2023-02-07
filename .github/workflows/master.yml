@@ -3,7 +3,7 @@ name: Test and Build Image for Docker
 on: [push]
 
 env:
-  DOCKER_REPO_NAME: kaw393939/module1
+  DOCKER_REPO_NAME: si263/module1
 
 jobs:
   build:
